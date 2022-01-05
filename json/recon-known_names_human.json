@@ -1,5 +1,5 @@
 [
-    {
+  {
     "op": "core/recon-judge-similar-cells",
     "engineConfig": {
       "facets": [],
@@ -99,4 +99,424 @@
     "shareNewTopics": false,
     "description": "Match item Thomas Phillipps (Q2147709) for cells containing \"Phillipps, Thomas, Sir, 1792-1872,\" in column recon"
   },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon",
+    "similarValue": "Gorman, Pierre Patrick, 1924-,",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1671373",
+      "name": "Pierre Gorman",
+      "types": [
+        "Q5"
+      ],
+      "score": 89
+    },
+    "shareNewTopics": false,
+    "description": "Match item Pierre Gorman (Q1671373) for cells containing \"Gorman, Pierre Patrick, 1924-,\" in column recon"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon",
+    "similarValue": "Ludwig, Peter, 1925-1996,",
+    "judgment": "matched",
+    "match": {
+      "id": "Q73991",
+      "name": "Peter Ludwig",
+      "types": [
+        "Q5"
+      ],
+      "score": 71
+    },
+    "shareNewTopics": false,
+    "description": "Match item Peter Ludwig (Q73991) for cells containing \"Ludwig, Peter, 1925-1996,\" in column recon"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon",
+    "similarValue": "Pius VI, Pope, 1717-1799,",
+    "judgment": "matched",
+    "match": {
+      "id": "Q128019",
+      "name": "Pius VI",
+      "types": [
+        "Q5"
+      ],
+      "score": 71
+    },
+    "shareNewTopics": false,
+    "description": "Match item Pius VI (Q128019) for cells containing \"Pius VI, Pope, 1717-1799,\" in column recon"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon",
+    "similarValue": "Beatty, A. Chester Sir, 1875-1968,",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1387981",
+      "name": "Alfred Chester Beatty",
+      "types": [
+        "Q5"
+      ],
+      "score": 75
+    },
+    "shareNewTopics": false,
+    "description": "Match item Alfred Chester Beatty (Q1387981) for cells containing \"Beatty, A. Chester Sir, 1875-1968,\" in column recon"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon",
+    "similarValue": "Hoe, Robert, 1839-1909,",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3663034",
+      "name": "Robert Hoe III",
+      "types": [
+        "Q5"
+      ],
+      "score": 67
+    },
+    "shareNewTopics": false,
+    "description": "Match item Robert Hoe III (Q3663034) for cells containing \"Hoe, Robert, 1839-1909,\" in column recon"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon",
+    "similarValue": "Fugger, Marcus, 1529-1597,",
+    "judgment": "matched",
+    "match": {
+      "id": "Q115254",
+      "name": "Markus Fugger",
+      "types": [
+        "Q5"
+      ],
+      "score": 72
+    },
+    "shareNewTopics": false,
+    "description": "Match item Markus Fugger (Q115254) for cells containing \"Fugger, Marcus, 1529-1597,\" in column recon"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon",
+    "similarValue": "Hahn, Franz Joseph Anton von, 1699-1748,",
+    "judgment": "matched",
+    "match": {
+      "id": "Q55131021",
+      "name": "Franz Josef von Hahn",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Franz Josef von Hahn (Q55131021) for cells containing \"Hahn, Franz Joseph Anton von, 1699-1748,\" in column recon"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon",
+    "similarValue": "Gladstone, W. E. 1809-1898,",
+    "judgment": "matched",
+    "match": {
+      "id": "Q160852",
+      "name": "William Ewart Gladstone",
+      "types": [
+        "Q5"
+      ],
+      "score": 72
+    },
+    "shareNewTopics": false,
+    "description": "Match item William Ewart Gladstone (Q160852) for cells containing \"Gladstone, W. E. 1809-1898,\" in column recon"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon",
+    "similarValue": "Horblit, Harrison D.,",
+    "judgment": "matched",
+    "match": {
+      "id": "Q18206500",
+      "name": "Harrison Horblit",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Harrison Horblit (Q18206500) for cells containing \"Horblit, Harrison D.,\" in column recon"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon",
+    "similarValue": "Williams, Talcott, 1849-1928,",
+    "judgment": "matched",
+    "match": {
+      "id": "Q7679087",
+      "name": "Talcott Williams",
+      "types": [
+        "Q5"
+      ],
+      "score": 76
+    },
+    "shareNewTopics": false,
+    "description": "Match item Talcott Williams (Q7679087) for cells containing \"Williams, Talcott, 1849-1928,\" in column recon"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon",
+    "similarValue": "Vollbehr, Otto H. F. 1869-1946,",
+    "judgment": "matched",
+    "match": {
+      "id": "Q23906104",
+      "name": "Otto Vollbehr",
+      "types": [
+        "Q5"
+      ],
+      "score": 77
+    },
+    "shareNewTopics": false,
+    "description": "Match item Otto Vollbehr (Q23906104) for cells containing \"Vollbehr, Otto H. F. 1869-1946,\" in column recon"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon",
+    "similarValue": "North, Frederick, Earl of Guilford, 1766-1827,",
+    "judgment": "matched",
+    "match": {
+      "id": "Q333623",
+      "name": "Frederick North",
+      "types": [
+        "Q5"
+      ],
+      "score": 87
+    },
+    "shareNewTopics": false,
+    "description": "Match item Frederick North (Q333623) for cells containing \"North, Frederick, Earl of Guilford, 1766-1827,\" in column recon"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon",
+    "similarValue": "Sassoon, David Solomon, 1880-1942,",
+    "judgment": "matched",
+    "match": {
+      "id": "Q31762617",
+      "name": "David Solomon Sassoon",
+      "types": [
+        "Q5"
+      ],
+      "score": 81
+    },
+    "shareNewTopics": false,
+    "description": "Match item David Solomon Sassoon (Q31762617) for cells containing \"Sassoon, David Solomon, 1880-1942,\" in column recon"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon",
+    "similarValue": "Tollemache, Bentley Lyonel John Tollemache, Baron, 1883-1955,",
+    "judgment": "matched",
+    "match": {
+      "id": "Q18109261",
+      "name": "Bentley Lyonel John Tollemache, 3rd Baron Tollemache",
+      "types": [
+        "Q5"
+      ],
+      "score": 92
+    },
+    "shareNewTopics": false,
+    "description": "Match item Bentley Lyonel John Tollemache, 3rd Baron Tollemache (Q18109261) for cells containing \"Tollemache, Bentley Lyonel John Tollemache, Baron, 1883-1955,\" in column recon"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon",
+    "similarValue": "Dysart, Lionel Tollemache, Earl of, 1708-1770,",
+    "judgment": "matched",
+    "match": {
+      "id": "Q6555815",
+      "name": "Lionel Tollemache, 4th Earl of Dysart",
+      "types": [
+        "Q5"
+      ],
+      "score": 85
+    },
+    "shareNewTopics": false,
+    "description": "Match item Lionel Tollemache, 4th Earl of Dysart (Q6555815) for cells containing \"Dysart, Lionel Tollemache, Earl of, 1708-1770,\" in column recon"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon",
+    "similarValue": "Beck, Helmut, 1919-2001,",
+    "judgment": "matched",
+    "match": {
+      "id": "Q94821473",
+      "name": "Helmut Beck",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Helmut Beck (Q94821473) for cells containing \"Beck, Helmut, 1919-2001,\" in column recon"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon",
+    "similarValue": "Chetwode, John, Sir, 1764-1845,",
+    "judgment": "matched",
+    "match": {
+      "id": "Q11800745",
+      "name": "Sir John Chetwode, 4th Baronet",
+      "types": [
+        "Q5"
+      ],
+      "score": 78
+    },
+    "shareNewTopics": false,
+    "description": "Match item Sir John Chetwode, 4th Baronet (Q11800745) for cells containing \"Chetwode, John, Sir, 1764-1845,\" in column recon"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon",
+    "similarValue": "Alleyn, James,",
+    "judgment": "matched",
+    "match": {
+      "id": "Q56063918",
+      "name": "Sir James Alleyn",
+      "types": [
+        "Q5"
+      ],
+      "score": 86
+    },
+    "shareNewTopics": false,
+    "description": "Match item Sir James Alleyn (Q56063918) for cells containing \"Alleyn, James,\" in column recon"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon",
+    "similarValue": "Masson, Irvine, 1887-1962,",
+    "judgment": "matched",
+    "match": {
+      "id": "Q15441871",
+      "name": "Irvine Masson",
+      "types": [
+        "Q5"
+      ],
+      "score": 72
+    },
+    "shareNewTopics": false,
+    "description": "Match item Irvine Masson (Q15441871) for cells containing \"Masson, Irvine, 1887-1962,\" in column recon"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon",
+    "similarValue": "Libri, Guillaume, 1803-1869,",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1251586",
+      "name": "Guglielmo Libri Carucci dalla Sommaja",
+      "types": [
+        "Q5"
+      ],
+      "score": 75
+    },
+    "shareNewTopics": false,
+    "description": "Match item Guglielmo Libri Carucci dalla Sommaja (Q1251586) for cells containing \"Libri, Guillaume, 1803-1869,\" in column recon"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon",
+    "similarValue": "Caffarelli, Prospero, d. 1500,",
+    "judgment": "matched",
+    "match": {
+      "id": "Q55643327",
+      "name": "Prospero Caffarelli",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Prospero Caffarelli (Q55643327) for cells containing \"Caffarelli, Prospero, d. 1500,\" in column recon"
+  }
 ]
