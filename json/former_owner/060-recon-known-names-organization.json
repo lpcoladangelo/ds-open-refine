@@ -181,5 +181,205 @@
     },
     "shareNewTopics": false,
     "description": "Match item Swarthmore College (Q1378320) for cells containing \"Swarthmore College,\" in column recon-organization"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "recon-organization: judgment",
+          "expression": "forNonBlank(cell.recon.judgment, v, v, if(isNonBlank(value), \"(unreconciled)\", \"(blank)\"))",
+          "columnName": "recon-organization",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "none",
+                "l": "none"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "recon-organization",
+    "similarValue": "Bernard Quaritch (Firm)",
+    "judgment": "matched",
+    "match": {
+      "id": "Q65034936",
+      "name": "Bernard Quaritch Ltd",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Bernard Quaritch Ltd (Q65034936) for cells containing \"Bernard Quaritch (Firm)\" in column recon-organization"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "recon-organization: judgment",
+          "expression": "forNonBlank(cell.recon.judgment, v, v, if(isNonBlank(value), \"(unreconciled)\", \"(blank)\"))",
+          "columnName": "recon-organization",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "none",
+                "l": "none"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "recon-organization",
+    "similarValue": "Monastery Holy Trinity-Champmol",
+    "judgment": "matched",
+    "match": {
+      "id": "Q922303",
+      "name": "Champmol",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Champmol (Q922303) for cells containing \"Monastery Holy Trinity-Champmol\" in column recon-organization"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "recon-organization: judgment",
+          "expression": "forNonBlank(cell.recon.judgment, v, v, if(isNonBlank(value), \"(unreconciled)\", \"(blank)\"))",
+          "columnName": "recon-organization",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "none",
+                "l": "none"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "recon-organization",
+    "similarValue": "Santa María de Benevívere (Monastery : Spain)",
+    "judgment": "matched",
+    "match": {
+      "id": "Q6898311",
+      "name": "Monastery of Benevívere",
+      "types": [
+        "Q160742"
+      ],
+      "score": 85
+    },
+    "shareNewTopics": false,
+    "description": "Match item Monastery of Benevívere (Q6898311) for cells containing \"Santa María de Benevívere (Monastery : Spain)\" in column recon-organization"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "recon-organization: judgment",
+          "expression": "forNonBlank(cell.recon.judgment, v, v, if(isNonBlank(value), \"(unreconciled)\", \"(blank)\"))",
+          "columnName": "recon-organization",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "none",
+                "l": "none"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "recon-organization",
+    "similarValue": "Monastero di S. Ambrogio (Milan, Italy)",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1071570",
+      "name": "Basilica of Sant'Ambrogio",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Basilica of Sant'Ambrogio (Q1071570) for cells containing \"Monastero di S. Ambrogio (Milan, Italy)\" in column recon-organization"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "recon-organization: judgment",
+          "expression": "forNonBlank(cell.recon.judgment, v, v, if(isNonBlank(value), \"(unreconciled)\", \"(blank)\"))",
+          "columnName": "recon-organization",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "matched",
+                "l": "matched"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "recon-organization",
+    "similarValue": "Maggs Bros.",
+    "judgment": "matched",
+    "match": {
+      "id": "Q15067374",
+      "name": "Maggs Bros Ltd",
+      "types": [
+        "Q582794"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Maggs Bros Ltd (Q15067374) for cells containing \"Maggs Bros.\" in column recon-organization"
   }
 ]
