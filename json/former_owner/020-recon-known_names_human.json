@@ -1118,5 +1118,105 @@
     },
     "shareNewTopics": false,
     "description": "Match item Samuel W. Pennypacker (Q540418) for cells containing \"Pennypacker, Samuel W. (Samuel Whitaker), 1843-1916\" in column recon-human"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon-human",
+    "similarValue": "Cockerell, Sydney Carlyle, Sir, 1867-1962",
+    "judgment": "matched",
+    "match": {
+      "id": "Q966843",
+      "name": "Sydney Cockerell",
+      "types": [
+        "Q5"
+      ],
+      "score": 85
+    },
+    "shareNewTopics": false,
+    "description": "Match item Sydney Cockerell (Q966843) for cells containing \"Cockerell, Sydney Carlyle, Sir, 1867-1962\" in column recon-human"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon-human",
+    "similarValue": "Page-Turner, Gregory Osborne, Sir, 1785-1843",
+    "judgment": "matched",
+    "match": {
+      "id": "Q75874518",
+      "name": "Sir Gregory Osborne Page-Turner, 4th Bt.",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Sir Gregory Osborne Page-Turner, 4th Bt. (Q75874518) for cells containing \"Page-Turner, Gregory Osborne, Sir, 1785-1843\" in column recon-human"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon-human",
+    "similarValue": "Harkness, Edward Stephen, 1874-1940",
+    "judgment": "matched",
+    "match": {
+      "id": "Q5343311",
+      "name": "Edward Harkness",
+      "types": [
+        "Q5"
+      ],
+      "score": 82
+    },
+    "shareNewTopics": false,
+    "description": "Match item Edward Harkness (Q5343311) for cells containing \"Harkness, Edward Stephen, 1874-1940\" in column recon-human"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon-human",
+    "similarValue": "Livermore, George, 1809-1865",
+    "judgment": "matched",
+    "match": {
+      "id": "Q16065893",
+      "name": "George Livermore",
+      "types": [
+        "Q5"
+      ],
+      "score": 76
+    },
+    "shareNewTopics": false,
+    "description": "Match item George Livermore (Q16065893) for cells containing \"Livermore, George, 1809-1865\" in column recon-human"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "recon-human",
+    "similarValue": "Phillips, Thomas, Sir, 1792-1872",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2147709",
+      "name": "Thomas Phillipps",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Thomas Phillipps (Q2147709) for cells containing \"Phillips, Thomas, Sir, 1792-1872\" in column recon-human"
   }
 ]
